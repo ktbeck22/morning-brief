@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-23",
+  "dateLabel": "Friday, October 23, 2026",
+  "location": "Kobe / Himeji, Japan",
+  "published": "October 23, 2026 · morning JST",
+  "headline": "Himeji Castle day",
+  "summary": "Mainland Hyogo's forecast favors a dry morning, but rainfall risk rises later. Champi remains a concern for the upcoming Korea Strait segment.",
+  "weather": {
+    "summary": "Kobe 24°C / 16°C; Himeji 24°C / 12°C · Fair, cloudier later",
+    "details": [
+      "JMA forecast issued October 22 at 11:00 JST: Kobe/Himeji precipitation probability 0% from 6 AM–noon, 10% noon–6 PM, 40% after 6 PM.",
+      "The Himeji Castle excursion is during the lower-risk morning period. Forecasts can change; check current conditions before departure."
+    ],
+    "sources": [
+      {
+        "label": "JMA · Hyogo forecast",
+        "url": "https://www.data.jma.go.jp/multi/yoho/yoho_detail.html?code=280010&lang=en"
+      }
+    ]
+  },
+  "plans": {
+    "items": [
+      "9:00 AM–1:45 PM — Himeji Castle excursion.",
+      "7:00 PM — Dinner at Chartreuse, aboard Seven Seas Explorer.",
+      "7:00 PM — Scheduled departure from Kobe."
+    ],
+    "note": "Rain risk is lowest during the morning castle visit. Dinner and the scheduled ship departure are both listed at 7 PM; confirm aboard."
+  },
+  "next": {
+    "summary": "Saturday, October 24 · Kochi",
+    "details": [
+      "7:00 AM–4:00 PM — Scheduled Kochi port call.",
+      "8:30 AM–3:30 PM — Private Kochi highlights tour: samurai residence, Makino garden, Kochi Castle, Hirome Market, and Chikurinji Temple.",
+      "4:00 PM — Hennessy tasting at Explorer Lounge.",
+      "The forecast for Kochi is unsettled across providers; be prepared for showers and check the excursion operator's instructions."
+    ],
+    "sources": [
+      {
+        "label": "Met Office · Kochi forecast",
+        "url": "https://weather.metoffice.gov.uk/forecast/wvyyye9df"
+      }
+    ]
+  },
+  "typhoon": {
+    "status": "Watch October 25–27",
+    "summary": "JMA's October 22 09:45 JST advisory placed Typhoon Champi east of Taiwan, moving west-northwest; the forecast brings a weakening system north, then northeast toward waters near the Korea Strait around October 26. The forecast is uncertain and this is not a confirmed cruise itinerary change.",
+    "details": [
+      "At the October 22 09:00 observation, Champi's pressure was 915 hPa and maximum sustained winds near center 55 m/s.",
+      "JMA projected transition to an extratropical low near 33.6°N 129.0°E on October 26 at 9 AM JST.",
+      "Potential impacts include rough seas, heavy rain and changed excursions or port schedules around Hiroshima, Busan and Nagasaki.",
+      "Check the ship's announcements for confirmed decisions; no such change has been verified for this report."
+    ],
+    "sources": [
+      {
+        "label": "JMA · Champi track and intensity",
+        "url": "https://www.data.jma.go.jp/multi/cyclone/cyclone_detail?id=60&lang=en"
+      },
+      {
+        "label": "JMA · Latest tropical cyclones",
+        "url": "https://www.data.jma.go.jp/multi/cyclone/index.html?lang=en"
+      }
+    ]
+  },
+  "headsUp": [
+    "Look for updates on the Kobe departure and October 25–27 sea conditions; forecast risks are not confirmed itinerary changes."
+  ],
+  "worthALook": [
+    "Himeji Castle: today's scheduled excursion features the historic castle and grounds.",
+    "In Kochi tomorrow: Makino Botanical Garden and Kochi Castle are on the planned tour.",
+    "Hirome Market in Kochi: an indoor food stop included in tomorrow's tour."
+  ],
+  "discoverSources": [
+    {
+      "label": "Himeji Castle · Official",
+      "url": "https://www.himejicastle.jp/en/"
+    },
+    {
+      "label": "Kochi tourism · Official",
+      "url": "https://visitkochijapan.com/en/"
+    }
+  ]
+}
