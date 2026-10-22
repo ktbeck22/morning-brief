@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-22",
+  "dateLabel": "Thursday, October 22, 2026",
+  "location": "Kobe, Japan",
+  "published": "October 22, 2026 · 7:00 AM JST",
+  "headline": "Kobe port day",
+  "summary": "Mostly dry sightseeing weather. Review overlapping evening arrangements and keep watching the storm outlook for upcoming ports.",
+  "weather": {
+    "summary": "22°C / 15°C (72°F / 59°F) · Cloudy, breezy",
+    "details": [
+      "Rain probability around 5%; no significant rain window expected during the day."
+    ],
+    "sources": [
+      {
+        "label": "JMA weather forecasts",
+        "url": "https://www.jma.go.jp/bosai/forecast/"
+      }
+    ]
+  },
+  "plans": {
+    "items": [
+      "12:00 PM — Arrive in Kobe; overnight port stay.",
+      "2:30–8:30 PM — Chef-led Kobe culinary journey.",
+      "7:00–9:00 PM — Dinner at Teppan Grill Keyaki."
+    ],
+    "note": "The culinary excursion and dinner overlap by approximately 90 minutes. Verify which arrangement remains current."
+  },
+  "next": {
+    "summary": "Friday, October 23 · Kobe / Himeji",
+    "details": [
+      "Forecast around 22°C / 13°C (72°F / 55°F); very low chance of rain.",
+      "9:00 AM–1:45 PM — Himeji Castle excursion.",
+      "7:00 PM — Dinner at Chartreuse aboard the ship.",
+      "7:00 PM — Scheduled departure from Kobe."
+    ],
+    "sources": [
+      {
+        "label": "Official Himeji Castle information",
+        "url": "https://www.himejicastle.jp/en/"
+      }
+    ]
+  },
+  "typhoon": {
+    "status": "Monitor forecast",
+    "summary": "Typhoon forecasts could affect the October 24–27 sailing corridor. Details were uncertain when this report was prepared. No cruise itinerary change is confirmed in this report.",
+    "details": [
+      "Watch Kochi, Hiroshima, Busan, and Nagasaki for changing marine conditions.",
+      "Consult ship announcements for actual port and excursion decisions.",
+      "High seas can persist after a tropical system weakens."
+    ],
+    "sources": [
+      {
+        "label": "Japan Meteorological Agency · Cyclones",
+        "url": "https://www.data.jma.go.jp/multi/cyclone/index.html?lang=en"
+      },
+      {
+        "label": "Korea Meteorological Administration · Typhoons",
+        "url": "https://www.kma.go.kr/neng/typhoon/typhoon-information.do?tIdx=1"
+      }
+    ]
+  },
+  "headsUp": [
+    "Local waterfront events may affect travel around Kobe; verify road access with local signage."
+  ],
+  "worthALook": [
+    "Minato HANABI fireworks near the Kobe waterfront (evening; confirm local event details).",
+    "Kobe Port Tower for panoramic harbor views.",
+    "Kobe Maritime Museum for indoor sightseeing."
+  ],
+  "discoverSources": [
+    {
+      "label": "Official Kobe tourism guide",
+      "url": "https://www.feel-kobe.jp/en/"
+    }
+  ]
+}
