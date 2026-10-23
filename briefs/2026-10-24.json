@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-24",
+  "dateLabel": "Saturday, October 24, 2026",
+  "location": "Kochi, Japan",
+  "published": "October 24, 2026 at 6:59 AM JST",
+  "headline": "Wet Kochi morning; Champi raises marine-weather concern for the next ports",
+  "summary": "Showers overlap today's Kochi highlights tour, particularly outdoor garden and castle stops. Champi remains a significant marine-weather concern for the Hiroshima–Busan–Nagasaki sailing corridor; no Regent-confirmed change has been verified.",
+  "weather": {
+    "summary": "26°C / 20°C (79°F / 68°F) · Showery morning, improving afternoon; rain chance up to 90%",
+    "details": [
+      "Kochi: UK Met Office hourly forecast indicates rain risk around 80% at 8–9 AM, 60–70% late morning, easing to around 30–50% early afternoon and 20–30% around 4 PM.",
+      "Outdoor portions of the 8:30 AM–3:30 PM private Kochi highlights tour may be wet, especially the Makino Botanical Garden and Kochi Castle.",
+      "Carry a rain jacket and waterproof footwear; showers may vary by neighborhood."
+    ],
+    "sources": [
+      {
+        "label": "UK Met Office · Kochi hourly forecast",
+        "url": "https://weather.metoffice.gov.uk/forecast/wvyyye9df?new-design=true"
+      },
+      {
+        "label": "Japan National Tourism Organization · Weather",
+        "url": "https://www.japan.travel/en/weather/"
+      }
+    ]
+  },
+  "plans": {
+    "items": [
+      "7:00 AM–4:00 PM — Kochi port call.",
+      "8:30 AM–3:30 PM — Private Kochi highlights tour: samurai residence, Makino Botanical Garden, Kochi Castle, Hirome Market and Chikurinji Temple (Kochi).",
+      "4:00 PM — Hennessy tasting, Explorer Lounge, onboard.",
+      "Sunday, October 25: 7:00 AM–4:00 PM Hiroshima port call; 8:30 AM–12:30 PM private Hiroshima Highlights tour; 4:00 PM Macallan tasting at Explorer Lounge; 6:30 PM dinner at Prime 7."
+    ],
+    "note": "Morning showers overlap outdoor Kochi tour stops. Tour ends 30 minutes before scheduled port departure and the tasting begins at 4 PM; confirm all-aboard time and transfer arrangements. Tomorrow's Hiroshima tour may also encounter rain."
+  },
+  "next": {
+    "summary": "Sunday, October 25 · Hiroshima, Japan — warm, humid, rain likely",
+    "details": [
+      "Forecasts differ on precise rainfall intensity; AccuWeather for central Hiroshima indicates a high near 25°C (77°F), low near 19°C (66°F), and substantial rain risk during the day.",
+      "7 AM–4 PM port call and 8:30 AM–12:30 PM private highlights tour may encounter rain. Carry waterproof layers.",
+      "4 PM Macallan tasting in Explorer Lounge; 6:30 PM dinner at Prime 7, onboard."
+    ],
+    "sources": [
+      {
+        "label": "AccuWeather · Hiroshima",
+        "url": "https://www.accuweather.com/en/jp/hiroshima-shi/223955/weather-forecast/223955"
+      }
+    ]
+  },
+  "typhoon": {
+    "status": "Significant marine weather concern — monitor official advisories and ship announcements",
+    "summary": "Typhoon Champi remains a large, strong system near Yonaguni; forecast to curve northeast through the East China Sea and weaken. Heavy rain and rough seas could affect the next sailing days. No Regent-confirmed itinerary adjustment was verified.",
+    "details": [
+      "JMA information issued October 24 at 4:05 AM JST (3:00 AM observations) placed Champi near Yonaguni, central pressure 955 hPa, maximum sustained winds 40 m/s (144 km/h), gusts 60 m/s (216 km/h), moving slowly west.",
+      "By 5:00 AM JST, a JMA-based update placed the center about 50 km northwest of Yonaguni at 24°50′N, 122°35′E, still 955 hPa.",
+      "Compared with October 23, pressure was roughly unchanged near 955 hPa; compared with the October 22 peak near 915 hPa, the storm is substantially weaker.",
+      "The storm is forecast to recurve northeast, move over the East China Sea on October 25, and toward waters south of Shikoku around October 26, with transition to an extratropical low around October 27. Forecast position and sea-state impacts remain uncertain.",
+      "Kochi October 24: rain and coastal conditions; Hiroshima October 25: heavy rain and potentially rough seas; Busan October 26: monitor sailing route and swell; Nagasaki October 27: residual marine conditions possible; Kagoshima October 28: lower direct threat but possible knock-on timing effects.",
+      "These are meteorological risk assessments, not confirmed cruise cancellations, rerouting, or excursion changes. Check the ship's official announcements.",
+      "Typhoon In-fa formed near the Marshall Islands early October 24 and poses no immediate threat to the upcoming ports."
+    ],
+    "sources": [
+      {
+        "label": "JMA typhoon information",
+        "url": "https://www.data.jma.go.jp/multi/cyclone/index.html?lang=en"
+      },
+      {
+        "label": "JMA bulletin republished by AMECS · Oct 24, 4:05 AM JST",
+        "url": "https://www.amecs.co.jp/wx/typhoon/index.html"
+      },
+      {
+        "label": "Weathernews · Champi latest track",
+        "url": "https://weathernews.jp/onebox/typhoon/30/"
+      },
+      {
+        "label": "Japan Weather Association · Typhoon 30",
+        "url": "https://tenki.jp/bousai/typhoon/2630/"
+      }
+    ]
+  },
+  "headsUp": [
+    "No separate verified closure or disruption affecting today's Kochi excursion was identified.",
+    "No Regent-confirmed port cancellation or itinerary change was verified; shipboard announcements are authoritative for operational decisions."
+  ],
+  "worthALook": [
+    "DATED · Kochi Castle Autumn Festival, Kochi Castle, October 24–25, 10 AM–7 PM. Could be encountered during today's scheduled castle stop.",
+    "RECURRING · Hirome Market, 2-3-1 Obiyamachi, Kochi, Saturday 10 AM–11 PM; local katsuo tataki during the planned tour stop.",
+    "DATED · Yosakoi Evening Dance performances around Hirome Market and Obiyamachi start 5 PM today; not feasible with scheduled 4 PM departure.",
+    "RECURRING · Makino Botanical Garden, Kochi; already on the private tour. Outdoor paths may be wet."
+  ],
+  "discoverSources": [
+    {
+      "label": "Kochi Castle · Autumn Festival (official)",
+      "url": "https://kochipark.jp/kochijyo/event/%E9%AB%98%E7%9F%A5%E5%9F%8E%E3%82%AA%E3%83%BC%E3%82%BF%E3%83%A0%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB/"
+    },
+    {
+      "label": "Hirome Market · Official site",
+      "url": "https://www.hirome.co.jp/"
+    },
+    {
+      "label": "Kochi Yosakoi Evening Dance · 2026 event details",
+      "url": "https://kokoharekochi.com/play/go-out/n106482/"
+    }
+  ]
+}
