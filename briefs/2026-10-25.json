@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-25",
+  "dateLabel": "Sunday, October 25, 2026",
+  "location": "Hiroshima, Japan",
+  "published": "October 25, 2026 at 6:59 AM JST",
+  "headline": "Heavy Hiroshima rain; Champi weakening but Busan sailing at risk",
+  "summary": "Heavy rain is forecast throughout today's Hiroshima sightseeing. Typhoon Champi has weakened, but marine conditions around the October 26 Busan call remain uncertain. No Regent-confirmed route or port changes were verified.",
+  "weather": {
+    "summary": "24°C / 18°C (75°F / 64°F) · Rain probability around 99%",
+    "details": [
+      "Hiroshima rain is forecast through most of Sunday, approximately 7 AM into the evening; some heavier spells around midday. Hourly probabilities mostly 80–99% during the 8:30 AM–12:30 PM tour.",
+      "Waterproof outerwear and shoes are recommended for outdoor memorial and city stops; take extra care on wet paths."
+    ],
+    "sources": [
+      {
+        "label": "Weather Underground · Hiroshima hourly forecast, October 25",
+        "url": "https://www.wunderground.com/hourly/jp/hiroshima/date/2026-10-25"
+      },
+      {
+        "label": "JMA · Japan weather forecasts",
+        "url": "https://www.jma.go.jp/bosai/forecast/"
+      }
+    ]
+  },
+  "plans": {
+    "items": [
+      "7:00 AM–4:00 PM — Hiroshima port call, Hiroshima, Japan.",
+      "8:30 AM–12:30 PM — Hiroshima Highlights private tour, Hiroshima; rain likely during outdoor walking portions.",
+      "4:00–5:00 PM — Macallan tasting, Explorer Lounge, onboard.",
+      "6:30–8:30 PM — Dinner at Prime 7, onboard.",
+      "Monday, October 26, 10:00 AM–8:00 PM — Busan port call, South Korea.",
+      "Monday, October 26, 11:00 AM–2:30 PM — Chef-led Busan Markets Tour, Busan; rain likely around arrival and the tour's start."
+    ],
+    "note": "Calendar events checked against the secondary Outlook calendar 'Kyle'. No confirmed overlapping events. The morning Hiroshima tour overlaps a high-confidence rain window; the Busan market tour may encounter rain and wet streets. Verify actual ship all-aboard times and any itinerary changes with onboard staff."
+  },
+  "next": {
+    "summary": "Monday, October 26 · Busan, South Korea — 20°C / 17°C (68°F / 62°F), about 99% daily rain chance.",
+    "details": [
+      "Heavy rain overnight and during the morning, with showers possibly easing by around 11 AM to midday; the afternoon may be comparatively drier, though timing remains uncertain.",
+      "10:00 AM–8:00 PM port call; 11:00 AM–2:30 PM chef-led market tour. Rain may affect the first part of the walking tour.",
+      "The ship's published itinerary includes Kanmon Strait transit and Busan, but marine conditions and ship announcements should govern plans."
+    ],
+    "sources": [
+      {
+        "label": "Time and Date · Busan forecast",
+        "url": "https://www.timeanddate.com/weather/south-korea/busan/ext"
+      },
+      {
+        "label": "Time and Date · Busan hourly forecast",
+        "url": "https://www.timeanddate.com/weather/south-korea/busan/hourly"
+      },
+      {
+        "label": "Regent Seven Seas · published October 20 sailing itinerary",
+        "url": "https://www.rssc.com/cruises/EXP261020/summary?source=CruiseSearch"
+      }
+    ]
+  },
+  "typhoon": {
+    "status": "Elevated marine weather concern — monitor ship announcements",
+    "summary": "Typhoon Champi has weakened to tropical-storm strength but remains a large system moving northeast through the East China Sea. Rough seas, rain and possible itinerary changes remain plausible; none are confirmed by Regent.",
+    "details": [
+      "Latest JMA advisory relayed at October 25, 2026, 6:45 AM JST: Champi centered near 28.6°N, 124.3°E in the East China Sea, central pressure 996 hPa, maximum sustained wind 20 m/s (72 km/h), gusts 30 m/s (108 km/h), moving northeast at 20 km/h.",
+      "Since October 24 at 9 PM, Champi weakened from 990 hPa and 25 m/s sustained winds. Its broad wind field may still generate swell beyond the center.",
+      "JMA's October 25, 3:45 AM JST forecast projects the storm southwest of the Goto Islands around October 26 at 3 AM and as an extratropical low south of Muroto Cape by October 27 at 3 AM. Forecast track uncertainty increases after 24 hours.",
+      "Today's Hiroshima call: heavy rain and outdoor-excursion disruption; the ship's departure should be checked onboard.",
+      "October 26 Busan: elevated risk of rough seas and possible altered routing or port timing, especially during the approach from the Kanmon Strait; this is a forecast risk, not a confirmed cancellation.",
+      "October 27 Nagasaki: residual seas or knock-on schedule disruption possible; October 28 Kagoshima and October 29 Beppu: lower direct threat but possible delays if earlier calls change.",
+      "Typhoon In-fa is near the Marshall Islands and is not an immediate threat to the upcoming Japan/Korea ports.",
+      "No Regent-confirmed route change, port cancellation or excursion cancellation was verified. The publicly posted Regent itinerary remains unchanged; ship announcements take precedence."
+    ],
+    "sources": [
+      {
+        "label": "JMA-derived advisory · Champi and In-fa, October 25 6:45 AM JST",
+        "url": "https://amecs.co.jp/wx/typhoon/index.html"
+      },
+      {
+        "label": "JMA-derived Champi forecast track, October 25 3:45 AM JST",
+        "url": "https://amecs.co.jp/wx/typhoon/1/tc2636.html"
+      },
+      {
+        "label": "JMA · official typhoon map",
+        "url": "https://www.jma.go.jp/bosai/map.html?contents=typhoon"
+      },
+      {
+        "label": "Regent Seven Seas · published cruise itinerary",
+        "url": "https://www.rssc.com/cruises/EXP261020/summary?source=CruiseSearch"
+      }
+    ]
+  },
+  "headsUp": [
+    "Hiroshima meteorologists warn of potentially severe rain and landslide risk from the evening of October 25 into October 26. Avoid flood-prone or steep areas if heavy rain develops.",
+    "Hiroshima Food Festival near Hiroshima Castle may cause crowds and limited parking. The castle notes partial parking restrictions through October 25; check local conditions and any weather-related event adjustments."
+  ],
+  "worthALook": [
+    "Dated event — Hiroshima Food Festival 2026, Hiroshima Castle grounds and Hiroshima Stadium Park, Sunday October 25, 10:00 AM–5:00 PM. Free entry, local foods; only feasible after the tour if transport and ship return times allow. Rain may affect outdoor stalls.",
+    "Recurring attraction — Hiroshima Peace Memorial Museum, Peace Memorial Park, 7:30 AM–7:00 PM (some early/late entry slots require advance online tickets). Indoor rainy-day option, subject to existing tour content.",
+    "Recurring attraction — Shukkeien Garden, 2-11 Kaminoboricho, Hiroshima, 9:00 AM–5:00 PM. Outdoor gardens; best only if rain eases."
+  ],
+  "discoverSources": [
+    {
+      "label": "Hiroshima City · Food Festival 2026 dates and hours",
+      "url": "https://www.city.hiroshima.lg.jp/shisei/kouhou/1004010/1045546/1053867/1054445.html"
+    },
+    {
+      "label": "Hiroshima Castle · festival crowd and parking notice",
+      "url": "https://hiroshimacastle.jp/news/news-3008/"
+    },
+    {
+      "label": "Hiroshima Peace Tourism · museum opening hours",
+      "url": "https://peace-tourism.com/en/spot/entry-40.html"
+    },
+    {
+      "label": "Hiroshima Convention & Visitors Bureau · Shukkeien",
+      "url": "https://www.hiroshimacvb.jp/en/unique-experience/experience/841.html"
+    },
+    {
+      "label": "FNN / Television Shin-Hiroshima · rain and landslide outlook, Oct 24",
+      "url": "https://www.fnn.jp/articles/-/1139257"
+    }
+  ]
+}
