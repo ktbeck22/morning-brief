@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-26",
+  "dateLabel": "Monday, October 26, 2026",
+  "location": "Busan, South Korea",
+  "published": "October 26, 2026 at 7:01 AM JST",
+  "headline": "Champi now extratropical; Busan markets tour may see rain",
+  "summary": "Champi has weakened into an extratropical low, reducing the direct tropical-cyclone threat. Rain may affect today's Busan market excursion; rough seas remain possible on the approach and onward sailing. Nagasaki tomorrow is forecast mostly sunny, although residual swell remains possible. No Regent-confirmed itinerary change was identified.",
+  "weather": {
+    "summary": "23°C / 13°C (73°F / 55°F) · About 78% chance of rain",
+    "details": [
+      "Mostly cloudy in Busan, with a shower possible in the morning and periods of rain in the afternoon. Rain timing is uncertain; showers could overlap the 11:00 AM–2:30 PM walking tour.",
+      "At approximately 6:35 AM, Busan was 17°C with an easterly wind near 20 km/h. Wear waterproof shoes and carry a rain jacket.",
+      "Forecast providers differ on exactly when afternoon showers will occur. Do not treat any one hour as certain."
+    ],
+    "sources": [
+      {
+        "label": "AccuWeather · Busan October 26 daily forecast",
+        "url": "https://www.accuweather.com/en/kr/busan/222888/weather-forecast/222888"
+      },
+      {
+        "label": "Time and Date · Busan hourly forecast",
+        "url": "https://www.timeanddate.com/weather/south-korea/busan/hourly"
+      }
+    ]
+  },
+  "plans": {
+    "items": [
+      "Monday, October 26, 10:00 AM–8:00 PM — Busan port call, Busan, South Korea.",
+      "Monday, October 26, 11:00 AM–2:30 PM — Chef-led Busan Markets Tour, Busan. Morning or afternoon showers could affect outdoor market walking.",
+      "Tuesday, October 27, 8:00 AM–6:00 PM — Nagasaki port call, Nagasaki, Japan.",
+      "Tuesday, October 27, 9:15 AM–2:00 PM — Panoramic Nagasaki sightseeing excursion, Nagasaki. Current forecast is mostly sunny with low rain risk; gusty conditions remain possible.",
+      "Tuesday, October 27, 3:30–6:30 PM — Culinary Kitchen: Sweet, Sour, Salty, Bitter & Umami, onboard.",
+      "Tuesday, October 27, 7:00–9:00 PM — Dinner at Chartreuse, onboard."
+    ],
+    "note": "Read the secondary Outlook calendar named Kyle for October 26–27; no calendar overlaps identified. Weather risk is chiefly today's Busan market walk. Check actual all-aboard times and port or excursion changes onboard."
+  },
+  "next": {
+    "summary": "Tuesday, October 27 · Nagasaki, Japan — about 23°C / 13°C (73°F / 55°F), 2% chance of rain",
+    "details": [
+      "Mostly sunny; no meaningful rain window is forecast during the 9:15 AM–2:00 PM Panoramic Nagasaki excursion.",
+      "North-northwesterly wind near 12 mph with gusts possibly up to 31 mph. Rain risk has decreased markedly from earlier outlooks, but residual swell may persist at sea.",
+      "Ship's published port window is 8:00 AM–6:00 PM; onboard Culinary Kitchen 3:30–6:30 PM and dinner at Chartreuse at 7:00 PM."
+    ],
+    "sources": [
+      {
+        "label": "AccuWeather · Nagasaki October 27 forecast",
+        "url": "https://www.accuweather.com/ja/jp/nagasaki-shi/2-224706_29_al/weather-tomorrow/2-224706_29_al"
+      },
+      {
+        "label": "Regent Seven Seas · published October 20 voyage itinerary",
+        "url": "https://www.rssc.com/cruises/EXP261020/summary?source=CruiseSearch"
+      }
+    ]
+  },
+  "typhoon": {
+    "status": "Champi extratropical — marine caution continues",
+    "summary": "JMA reports Champi became an extratropical low at 9:00 PM JST October 25. KMA's 3:00 AM JST October 26 update places the low in the East China Sea near 31.3°N, 127.5°E at 1000 hPa, moving east-northeast at 20 km/h, with winds around 21 m/s (76 km/h). Rain and waves remain concerns despite loss of typhoon status.",
+    "details": [
+      "JMA's latest typhoon summary issued October 26 at 3:50 AM JST confirms Champi's extratropical transition. The final Champi-specific JMA analysis was issued October 25 at 9:45 PM JST, using 9:00 PM observations: 31.0°N, 126.0°E, 1000 hPa, moving north-northeast 20 km/h.",
+      "KMA issued its final Champi advisory October 26 at 3:00 AM JST/KST: extratropical low at 31.3°N, 127.5°E, 1000 hPa, moving east-northeast at 20 km/h. These are different observation times, not conflicting positions.",
+      "Change since October 25: the system weakened and transitioned from tropical-storm strength to an extratropical low; its residual wind field and associated front can still produce rough seas and heavy rain.",
+      "Busan October 26: rain and potentially rough conditions during approach and departure; a change in port timing or route is possible but not confirmed.",
+      "Nagasaki October 27: much drier forecast but lingering swell and wind gusts could affect sailing or shore operations.",
+      "Kagoshima October 28 and Beppu October 29: lower direct storm risk; possible knock-on delays if earlier sailing legs change.",
+      "Forecast uncertainty remains for exact sea state and localized rainfall. Regent's public itinerary still lists Busan October 26 and Nagasaki October 27; no Regent-confirmed changes were found. Follow onboard announcements.",
+      "Typhoon In-fa is near the Marshall Islands at approximately 13.6°N, 164.6°E per JMA's 3:50 AM JST summary and poses no immediate threat to upcoming ports."
+    ],
+    "sources": [
+      {
+        "label": "JMA data mirrored by AMECS · October 26 3:50 AM JST tropical cyclone bulletin",
+        "url": "https://amecs.co.jp/wx/typhoon/index.html"
+      },
+      {
+        "label": "JMA final Champi advisory mirrored by AMECS · October 25 9:45 PM JST",
+        "url": "https://amecs.co.jp/wx/typhoon/1/tc2636.html"
+      },
+      {
+        "label": "Korea Meteorological Administration · October 26 3:00 AM Champi advisory",
+        "url": "https://www.weather.go.kr/w/hazard/typhoon/report.do"
+      },
+      {
+        "label": "Regent Seven Seas · published voyage itinerary",
+        "url": "https://www.rssc.com/cruises/EXP261020/summary?source=CruiseSearch"
+      }
+    ]
+  },
+  "headsUp": [
+    "Western Japan has storm-related ferry cancellations, especially around Kyushu and offshore islands, and weather-sensitive rail services. These are regional disruptions, not confirmed changes to Seven Seas Explorer.",
+    "Regent's public itinerary continues to list Busan 10:00 AM–8:00 PM today and Nagasaki 8:00 AM–6:00 PM tomorrow; shipboard updates take precedence.",
+    "Busan Biennale 2026 is closed on Monday October 26 despite its broader August–November run. Busan Museum of Movies is also closed Mondays."
+  ],
+  "worthALook": [
+    "Dated event — Gwangalli Beach Book Fair, Gwangalli Beach meeting plaza, October 23–28, 1:00–9:00 PM. Outdoor book stalls; possible after the market tour if weather, transport, and ship return time permit.",
+    "Recurring attraction — Jagalchi Market, 52 Jagalchihaean-ro, Jung-gu, Busan, 5:00 AM–10:00 PM; may already be part of the chef-led tour.",
+    "Recurring attraction — Busan Tower, Yongdusan Park, Jung-gu, Busan, 10:00 AM–10:00 PM; weather-dependent panoramic views, near the Nampo market district.",
+    "Recurring attraction — BIFF Square, Nampo-dong, Jung-gu, Busan, public pedestrian area open all hours; food stalls usually late morning through evening."
+  ],
+  "discoverSources": [
+    {
+      "label": "Busan Tourism Organization · Jagalchi Market hours",
+      "url": "https://www.visitbusan.net/en/index.do?lang_cd=en&menuCd=DOM_000000301003001000&uc_seq=412"
+    },
+    {
+      "label": "Busan Tourism Organization · Busan Tower",
+      "url": "https://www.visitbusan.net/en/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=550"
+    },
+    {
+      "label": "Busan Tourism Organization · October 2026 event calendar",
+      "url": "https://www.visitbusan.net/schedule/list.do?boardId=BBS_0000009&contentsSid=447&menuCd=DOM_000000204012000000"
+    },
+    {
+      "label": "Gwangalli Beach Book Fair · October 23–28 event details",
+      "url": "https://koreabridge.net/event/gwangalli-beach-book-fair"
+    },
+    {
+      "label": "Busan Biennale 2026 · official Monday closure schedule",
+      "url": "https://busanbiennale2026.com/en/visit"
+    },
+    {
+      "label": "Japan weather disruption report · October 26",
+      "url": "https://newsonjapan.com/article/151119.php"
+    }
+  ]
+}
