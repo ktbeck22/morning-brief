@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-27",
+  "dateLabel": "Tuesday, October 27, 2026",
+  "location": "Nagasaki, Japan",
+  "published": "October 27, 2026 at 7:00 AM JST",
+  "headline": "Nagasaki sightseeing looks mostly dry; Champi is now an extratropical low",
+  "summary": "Mostly sunny and breezier later in Nagasaki. Today's Panoramic Nagasaki tour has no clearly forecast rain window. Champi is no longer a typhoon; residual swell remains a marine consideration. Tomorrow's Kagoshima garden visit looks dry. No Regent-confirmed itinerary changes were verified.",
+  "weather": {
+    "summary": "24°C / 14°C (75°F / 57°F) · Sunshine and a few clouds, breezy in the afternoon · roughly 25% chance of precipitation (AccuWeather)",
+    "details": [
+      "No reliable rain hours identified for today's 9:15 AM–2:00 PM Panoramic Nagasaki excursion. Japan National Tourism Organization's forecast is drier (21°C / 13°C, 0% rain), so forecast providers disagree on exact temperature and chance of a brief shower.",
+      "The more consistent signal is generally dry sightseeing weather, with afternoon breezes. Carry a light layer and check conditions on deck and at exposed viewpoints.",
+      "Nagasaki port remains scheduled for 8:00 AM–6:00 PM at Matsugae Cruise Terminal on the port authority's published October calendar; ship announcements control actual docking and departure."
+    ],
+    "sources": [
+      {
+        "label": "AccuWeather · Nagasaki October 27",
+        "url": "https://www.accuweather.com/en/jp/nagasaki-shi/224706/weather-forecast/224706"
+      },
+      {
+        "label": "JNTO · Nagasaki weather",
+        "url": "https://www.japan.travel/en/weather/kyushu/nagasaki/"
+      },
+      {
+        "label": "Nagasaki Port Authority · October cruise calendar",
+        "url": "https://www.nagasaki-port.jp/cruise_calendar/October.html"
+      }
+    ]
+  },
+  "plans": {
+    "items": [
+      "Today, 8:00 AM–6:00 PM — Nagasaki port call; Matsugae Cruise Terminal.",
+      "Today, 9:15 AM–2:00 PM — Panoramic Nagasaki sightseeing excursion in Nagasaki.",
+      "Today, 3:30–6:30 PM — Culinary Kitchen: Sweet, Sour, Salty, Bitter & Umami; onboard Seven Seas Explorer.",
+      "Today, 7:00–9:00 PM — Dinner at Chartreuse; onboard Seven Seas Explorer.",
+      "Tomorrow, 8:00 AM–5:00 PM — Kagoshima port call.",
+      "Tomorrow, 8:30–11:45 AM — Sengan-en Garden & Museum excursion; Sengan-en, 9700-1 Yoshino-cho, Kagoshima.",
+      "Tomorrow, 7:00–9:00 PM — Dinner at Prime 7; onboard Seven Seas Explorer."
+    ],
+    "note": "Read from the connected secondary Outlook calendar named Kyle. No rain-related conflicts anticipated for today's 9:15 AM–2:00 PM tour or tomorrow's 8:30–11:45 AM garden visit. Note that today's onboard Culinary Kitchen class is listed through 6:30 PM, after the scheduled 6:00 PM port departure; being onboard makes this compatible. Confirm the ship's all-aboard time before optional independent sightseeing. Calendar entries' ship label was normalized to the correct Seven Seas Explorer."
+  },
+  "next": {
+    "summary": "Wednesday, October 28 · Kagoshima — sunny, 23°C / 14°C (73°F / 57°F), 0% rain (AccuWeather)",
+    "details": [
+      "No rain window expected during the 8:30–11:45 AM Sengan-en Garden & Museum excursion.",
+      "Sengan-en's official hours are 9:00 AM–5:00 PM; your scheduled guided visit begins at 8:30 AM, likely including transportation before admission. The gardens and museum are at 9700-1 Yoshino-cho, Kagoshima.",
+      "Ship port call 8:00 AM–5:00 PM; dinner at Prime 7 7:00–9:00 PM."
+    ],
+    "sources": [
+      {
+        "label": "AccuWeather · Kagoshima October 28",
+        "url": "https://www.accuweather.com/en/jp/kagoshima-shi/224369/weather-forecast/224369"
+      },
+      {
+        "label": "Sengan-en · Official visitor information",
+        "url": "https://www.senganen.jp/about/"
+      }
+    ]
+  },
+  "typhoon": {
+    "status": "Champi extratropical; no significant typhoon threat to upcoming ports",
+    "summary": "Champi transitioned into an extratropical low in the East China Sea at 9:00 PM JST October 25. It is no longer an active typhoon. Residual swell or local winds remain possible, but Nagasaki, Kagoshima, Beppu, and the return to Tokyo do not currently show a significant direct typhoon threat. No Regent-confirmed rerouting or port cancellation was found.",
+    "details": [
+      "Champi: The final published typhoon position listed by Yahoo Japan's JMA-based track was 31.0°N, 126.0°E, 1000 hPa, moving north-northeast at 20 km/h, as it transitioned at 9:00 PM JST October 25. This is a historical final tropical-cyclone fix, NOT a current October 27 center position; subsequent extratropical-low positions were not independently verified.",
+      "Compared with October 26, the main change is lower concern for a direct tropical-cyclone impact; rough seas can linger after weakening. Nagasaki October 27 and Kagoshima October 28 have favorable land forecasts; Beppu October 29 and the sea day October 30 should still be checked for winds and swell.",
+      "Typhoon In-fa (No. 31): At 6:00 AM JST October 27, near 14.2°N, 162.5°E in the Marshall Islands, central pressure 965 hPa, maximum sustained winds 45 m/s (162 km/h), nearly stationary. Forecast westward toward the Marianas by October 30, then potentially turning north toward Ogasawara after October 31; confidence in the timing and location of the turn is low. It is far from the next four ports and not a direct threat to this cruise at present.",
+      "The Japan Meteorological Agency's cyclone portal was consulted, but its live data is rendered dynamically and could not be extracted in text form during this run; typhoon facts were cross-checked with Japan's weather services. No Regent-confirmed changes found. Consult onboard announcements for any actual routing decisions."
+    ],
+    "sources": [
+      {
+        "label": "Japan Meteorological Agency · Typhoon information",
+        "url": "https://www.data.jma.go.jp/multi/cyclone/index.html?lang=en"
+      },
+      {
+        "label": "Yahoo Japan · Champi final status and track",
+        "url": "https://typhoon.yahoo.co.jp/weather/jp/typhoon/2630.html"
+      },
+      {
+        "label": "Weathernews · In-fa 6 AM JST October 27",
+        "url": "https://weathernews.jp/onebox/typhoon/"
+      },
+      {
+        "label": "Nagasaki Port Authority · October vessel schedule",
+        "url": "https://www.nagasaki-port.jp/cruise_calendar/October.html"
+      }
+    ]
+  },
+  "headsUp": [
+    "No major independently verified Nagasaki disruption or Seven Seas Explorer cancellation was identified. The port authority still lists Seven Seas Explorer for October 27, 8:00 AM–6:00 PM; its separate October 26 cancellation concerns another vessel, not this ship.",
+    "Wind and residual swell may affect comfort during the Nagasaki–Kagoshima passage even if sightseeing stays dry. Follow crew guidance and posted all-aboard times."
+  ],
+  "worthALook": [
+    "Recurring: Glover Garden, 8-1 Minamiyamate-machi, Nagasaki; normally 8:00 AM–6:00 PM (last entry 5:40 PM). Historic residences and harbor views, near the cruise terminal; feasible only if the Panoramic Nagasaki tour does not already include it and you have time before your 3:30 PM class.",
+    "Recurring: Oura Cathedral, 5-3 Minamiyamate-machi, Nagasaki; 8:30 AM–6:00 PM (last entry 5:30 PM). Near Glover Garden; a short alternative after the tour.",
+    "Recurring: Dejima historic trading-post site, 6-1 Dejima-machi, Nagasaki; 8:00 AM–9:00 PM (last entry 8:40 PM), but leave time to return aboard before departure.",
+    "Recurring: Shinchi Chinatown, Shinchi-machi, Nagasaki; compact streets and local champon/sara-udon. Shops/restaurants have individual hours; a possible quick lunch stop if the tour allows free time. No date-specific festival on October 27 was verified."
+  ],
+  "discoverSources": [
+    {
+      "label": "Nagasaki official tourism · Glover Garden",
+      "url": "https://www.discover-nagasaki.com/en/sightseeing/101"
+    },
+    {
+      "label": "Nagasaki official tourism · Oura Cathedral",
+      "url": "https://www.discover-nagasaki.com/en/sightseeing/102"
+    },
+    {
+      "label": "Nagasaki official tourism · Dejima",
+      "url": "https://www.discover-nagasaki.com/en/sightseeing/63"
+    },
+    {
+      "label": "Nagasaki official tourism · Shinchi Chinatown",
+      "url": "https://www.discover-nagasaki.com/en/sightseeing/111"
+    }
+  ]
+}
