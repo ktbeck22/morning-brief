@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-28",
+  "dateLabel": "Wednesday, October 28, 2026",
+  "location": "Kagoshima, Japan",
+  "published": "October 28, 2026 at 7:04 AM JST",
+  "headline": "Clear Kagoshima sightseeing; monitor distant In-fa and Sakurajima ash",
+  "summary": "Sunny, dry conditions favor the Sengan-en excursion. In-fa is strengthening far southeast of Japan but no significant typhoon threat to the remaining ports is indicated. Sakurajima's Level 3 volcanic alert remains in force.",
+  "weather": {
+    "summary": "23°C / 15°C (73°F / 59°F) · Sunny · Rain chance around 0–10%",
+    "details": [
+      "Kagoshima hourly forecast shows sunshine and 0 mm precipitation at 9 AM, noon, 3 PM and 6 PM; no expected rain window during the 8:30–11:45 AM Sengan-en Garden & Museum excursion.",
+      "Temperatures rise from around 19°C at 9 AM to 22–23°C by afternoon. Take sun protection and a light layer for the cooler morning.",
+      "Beppu tomorrow: approximately 23°C / 14°C (73°F / 57°F), becoming cloudy; about 24% chance of rain, mainly late at night. Daytime tour likely dry."
+    ],
+    "sources": [
+      {
+        "label": "Yahoo Japan · Kagoshima hourly forecast (Oct 27, 9 PM issue)",
+        "url": "https://weather.yahoo.co.jp/weather/jp/46/8810/46201.html"
+      },
+      {
+        "label": "AccuWeather · Beppu Oct 29 forecast",
+        "url": "https://www.accuweather.com/en/jp/beppu-shi/219397/weather-forecast/219397"
+      }
+    ]
+  },
+  "plans": {
+    "items": [
+      "Today, 8:00 AM–5:00 PM — Kagoshima port call.",
+      "Today, 8:30–11:45 AM — Sengan-en Garden & Museum excursion, 9700-1 Yoshino-cho, Kagoshima. Historic Shimadzu gardens and museum; no expected rain overlap.",
+      "Today, 7:00–9:00 PM — Dinner at Prime 7, onboard Seven Seas Explorer.",
+      "Tomorrow, 10:00 AM–6:00 PM — Beppu port call.",
+      "Tomorrow, 11:00 AM–2:00 PM — Private Beppu Hell tour: geothermal 'hells', monkeys and lunch, Beppu, Oita. Rain expected mainly late night, not during tour.",
+      "Tomorrow, 6:30–8:30 PM — Dinner at Pacific Rim, onboard Seven Seas Explorer."
+    ],
+    "note": "Read from the secondary Outlook calendar named Kyle, with event times converted from UTC to Japan time. No overlapping events or forecast rain conflicts identified; keep ship all-aboard times in mind."
+  },
+  "next": {
+    "summary": "Thursday, October 29 · Beppu · 23°C / 14°C (73°F / 57°F), clouding over",
+    "details": [
+      "Rain chance about 24%, mainly late Thursday night; the 11 AM–2 PM private Beppu Hell tour should be largely dry.",
+      "The seven Beppu Jigoku geothermal attractions are generally open 8 AM–5 PM. Expect walking between outdoor hot-spring features.",
+      "October 30 is a sea day; rain is forecast in Beppu Friday morning, but sea conditions require ship-specific updates."
+    ],
+    "sources": [
+      {
+        "label": "AccuWeather · Beppu",
+        "url": "https://www.accuweather.com/en/jp/beppu-shi/219397/weather-forecast/219397"
+      },
+      {
+        "label": "Beppu Jigoku official opening hours",
+        "url": "https://beppu-jigoku.com/fee/index.html"
+      }
+    ]
+  },
+  "typhoon": {
+    "status": "Monitor distant In-fa; no significant threat to upcoming ports",
+    "summary": "JMA advisory October 28, 6:45 AM JST: Very strong Typhoon In-fa at 14.8°N, 160.5°E in the Marshall Islands, 950 hPa, westward 15 km/h, sustained winds 50 m/s (180 km/h), gusts 70 m/s (252 km/h). It intensified from 965 hPa and 45 m/s yesterday morning. Former Champi is no longer a typhoon.",
+    "details": [
+      "JMA forecasts In-fa west-northwest toward the Mariana Islands by October 30 and Ogasawara waters around November 1; the timing and position of a turn remain uncertain beyond several days.",
+      "Kagoshima October 28 and Beppu October 29: no significant direct typhoon threat indicated. October 30 sea day: monitor marine forecasts and ship announcements. Tokyo October 31: no confirmed storm disruption, with the forecast center still far south.",
+      "No Regent-confirmed cancellations, route changes or shore-excursion adjustments found. Forecast risk is not a confirmed itinerary change; follow Seven Seas Explorer announcements."
+    ],
+    "sources": [
+      {
+        "label": "JMA typhoon advisory (Oct 28, 6:45 AM JST; mirrored full text)",
+        "url": "https://www.amecs.co.jp/wx/typhoon/1/tc2637.html"
+      },
+      {
+        "label": "JMA official tropical cyclone information",
+        "url": "https://www.data.jma.go.jp/multi/cyclone/index.html?lang=en"
+      }
+    ]
+  },
+  "headsUp": [
+    "Sakurajima volcano remains at JMA Eruption Alert Level 3 (restricted access within approximately 2 km of Minamidake and Showa craters). JMA's October 26 bulletin recorded 12 eruptions from October 23–26, including four explosive events. Ashfall is possible downwind; no closure of the scheduled Sengan-en excursion has been verified.",
+    "No other major verified disruption affecting today's port call identified."
+  ],
+  "worthALook": [
+    "Recurring / scheduled: Sengan-en Garden, Shimadzu residence and neighboring museum, 9700-1 Yoshino-cho, 9 AM–5 PM; already part of your morning excursion.",
+    "Recurring: Shiroyama Observatory, Shiroyama-cho, accessible via Kagoshima City View bus; panoramic views of Sakurajima and the city, best if visibility is clear.",
+    "Recurring: Tenmonkan shopping arcades, central Kagoshima, open-access district with restaurants and shirokuma shaved ice; CenTerrace shops generally 10 AM–8 PM.",
+    "Recurring: Kagoshima Aquarium, 3-1 Honkoshinmachi, 9:30 AM–6 PM (last entry 5 PM); indoor alternative if volcanic ash affects outdoor plans."
+  ],
+  "discoverSources": [
+    {
+      "label": "Official Kagoshima tourism · Sengan-en",
+      "url": "https://www.kagoshima-yokanavi.jp/en/spot/10006"
+    },
+    {
+      "label": "Official Kagoshima tourism · Shiroyama Observatory",
+      "url": "https://www.kagoshima-yokanavi.jp/en/spot/10002"
+    },
+    {
+      "label": "Official Kagoshima tourism · Tenmonkan",
+      "url": "https://www.kagoshima-yokanavi.jp/en/spot/10027"
+    },
+    {
+      "label": "Kagoshima Aquarium · visitor hours",
+      "url": "https://ioworld.jp/information"
+    },
+    {
+      "label": "JMA · Sakurajima volcanic activity (Oct 26 update)",
+      "url": "https://ds.data.jma.go.jp/svd/vois/data/report/activity_info/506.html"
+    }
+  ]
+}
