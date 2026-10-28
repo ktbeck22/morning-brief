@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-29",
+  "dateLabel": "Thursday, October 29, 2026",
+  "location": "Beppu, Oita, Japan",
+  "published": "October 29, 2026 at 7:05 AM JST",
+  "headline": "Dry Beppu tour; rain possible late, In-fa far from cruise route",
+  "summary": "Beppu's geothermal and monkey-park tour should remain dry. Showers are more likely after sightseeing, while Typhoon In-fa remains far southeast of the Seven Seas Explorer's remaining route. No verified Regent schedule change.",
+  "weather": {
+    "summary": "23°C / 10°C (73°F / 50°F) · Sunny to partly cloudy, rain risk later",
+    "details": [
+      "October 29 forecast: 0–10% chance of rain through the daytime sightseeing period, rising to about 50% from 6 PM to midnight; late-evening rain timing remains uncertain.",
+      "During the 11 AM–2 PM Beppu Hells and monkey-park tour, meaningful rain is not expected. Carry a light layer for the cooler morning and a compact umbrella for the evening.",
+      "Local forecast reflects Beppu/Oita rather than precise conditions aboard the ship."
+    ],
+    "sources": [
+      {
+        "label": "Yahoo! Japan · Oita/Beppu local forecast (29 October)",
+        "url": "https://weather.yahoo.co.jp/weather/jp/44/8310.html"
+      },
+      {
+        "label": "Beppu hourly forecast",
+        "url": "https://www.tenki365.jp/japan/oita/tenki-beppu/maiji"
+      }
+    ]
+  },
+  "plans": {
+    "items": [
+      "Today 10:00 AM–6:00 PM — Beppu port call, Beppu, Oita.",
+      "Today 11:00 AM–2:00 PM — Beppu highlights tour: geothermal hells, wild monkeys, and lunch, Beppu/Oita.",
+      "Today 6:30–8:30 PM — Dinner at Pacific Rim, aboard Seven Seas Explorer.",
+      "Tomorrow, Friday October 30 — At sea, returning toward Tokyo.",
+      "Tomorrow 12:00–2:00 PM — Caymus Food & Wine event, Compass Rose, onboard."
+    ],
+    "note": "Verified against the secondary Outlook calendar named Kyle. No overlapping events or expected rain impact on today's outdoor tour. Dinner is onboard after the scheduled 6 PM departure; check the ship's actual all-aboard deadline."
+  },
+  "next": {
+    "summary": "Friday, October 30 · At sea en route to Tokyo (arrival October 31)",
+    "details": [
+      "Friday's regional outlook is wetter around Kyushu (rain early, potentially clearing) and mainly cloudy near Tokyo, with roughly 20–30% rain chances in Tokyo.",
+      "Exact rain hours and sea conditions along the ship's actual route cannot be established from land forecasts. No outdoor excursion is scheduled.",
+      "12:00–2:00 PM Caymus Food & Wine at Compass Rose; indoors, so no direct rain conflict.",
+      "Saturday October 31: scheduled Tokyo return; Tokyo forecast currently favors dry weather."
+    ],
+    "sources": [
+      {
+        "label": "Yahoo! Japan · Tokyo forecast",
+        "url": "https://weather.yahoo.co.jp/weather/jp/13/4410.html"
+      },
+      {
+        "label": "Yahoo! Japan · Oita/Beppu local forecast (29 October)",
+        "url": "https://weather.yahoo.co.jp/weather/jp/44/8310.html"
+      }
+    ]
+  },
+  "typhoon": {
+    "status": "No significant typhoon threat to upcoming ports",
+    "summary": "JMA's 29 October 06:45 JST advisory places very strong Typhoon In-fa far southeast of mainland Japan. The current forecast keeps its center near the Mariana/Ogasawara Islands through 31 October, far south of the Beppu–Tokyo route. Champi transitioned to an extratropical low on October 25.",
+    "details": [
+      "29 October 06:00 JST observation: 15.8°N, 155.5°E, near Minamitorishima; 945 hPa; sustained winds 45 m/s (162 km/h), gusts 65 m/s (234 km/h); moving west at 25 km/h.",
+      "Since 28 October 06:00 JST: position shifted west and slightly north; central pressure decreased 950→945 hPa while peak sustained winds decreased 50→45 m/s. The 30 October forecast predicts renewed intensification to 935 hPa.",
+      "JMA projects In-fa near 17.1°N, 149.0°E by 30 October 06:00 and 19.8°N, 144.0°E by 31 October 03:00 JST, then near the Ogasawara Islands November 1. Track uncertainty grows beyond 48 hours.",
+      "Seven Seas Explorer: low direct tropical-storm risk for Beppu today, October 30 at sea, and Tokyo October 31. Distant swell is possible but cannot be quantified without the actual sailing route and marine forecasts.",
+      "No Regent-confirmed port cancellations, route changes, or shore-excursion changes were verified. Ship announcements take precedence."
+    ],
+    "sources": [
+      {
+        "label": "JMA · Typhoon In-fa, 29 October 06:45 JST",
+        "url": "https://amecs.co.jp/wx/typhoon/1/tc2637.html"
+      },
+      {
+        "label": "Japan Meteorological Agency · Tropical cyclone information",
+        "url": "https://www.data.jma.go.jp/multi/cyclone/index.html?lang=en"
+      }
+    ]
+  },
+  "headsUp": [
+    "Japan Coast Guard Oita bulletin at 6:10 AM JST, October 29: no coastal weather or tsunami warnings/advisories in the displayed categories.",
+    "No other major verified Beppu-area travel disruption affecting today's port call identified."
+  ],
+  "worthALook": [
+    "Recurring — Beppu Hells (Umi Jigoku and other geothermal pools), Kannawa, Beppu; daily 8 AM–5 PM. Already part of the scheduled tour. https://beppu-jigoku.com/fee/index.html",
+    "Recurring — Takasakiyama Natural Zoological Garden, 3098-1 Kanzaki, Oita; 9 AM–5 PM (last entry 4:30 PM). Wild macaques; likely part of today's tour. https://oita-tourism.com/en/attractions/detail_1001.html",
+    "Recurring — Jigokumushi Kobo Kannawa, Kannawa hot-spring district, Beppu; geothermal steam-cooking experience, generally 10 AM–7 PM. Possible only if tour timing permits. https://beppu-shisetsu.com/wp-content/themes/kanko/pamphleta/map_en_250306.pdf",
+    "Recurring — Beppu Tower, 3-10-2 Kitahama, Beppu; 9:30 AM–9:30 PM. Harbor views after the tour, only if back onboard before all-aboard. https://bepputower.co.jp/en/"
+  ],
+  "discoverSources": [
+    {
+      "label": "Beppu Hells · Official hours",
+      "url": "https://beppu-jigoku.com/fee/index.html"
+    },
+    {
+      "label": "Visit Oita · Takasakiyama Monkey Park",
+      "url": "https://oita-tourism.com/en/attractions/detail_1001.html"
+    },
+    {
+      "label": "Beppu Tower · Official site",
+      "url": "https://bepputower.co.jp/en/"
+    },
+    {
+      "label": "Beppu tourism · Hot-spring steam viewpoint",
+      "url": "https://www1.city.beppu.oita.jp/sisetu/sangyou_kankou/yukemuri.html"
+    },
+    {
+      "label": "Japan Coast Guard · Oita coastal warnings",
+      "url": "https://www6.kaiho.mlit.go.jp/n/07kanku/oita/keihou_chuihou.html"
+    }
+  ]
+}
