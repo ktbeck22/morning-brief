@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-30",
+  "dateLabel": "Friday, October 30, 2026",
+  "location": "At sea · Pacific coast of Japan, sailing toward Tokyo",
+  "published": "October 30, 2026 at 7:00 AM JST",
+  "headline": "Sea day toward Tokyo; tomorrow's flight timing needs attention",
+  "summary": "A quiet sea day on Seven Seas Explorer, with Caymus Food & Wine at noon. In-fa is still a very strong typhoon far south of mainland Japan, but no direct threat to tomorrow's Tokyo arrival is indicated. Tomorrow's tentative Skytree visit needs to leave enough time for the 4:25 PM international flight from Haneda.",
+  "weather": {
+    "summary": "At sea: no reliable ship-position-specific high/low or hourly rain forecast. Tokyo coastal reference: 22°C / 12°C (72°F / 54°F), rain then cloudy.",
+    "details": [
+      "Tokyo forecast issued October 30 at 6 AM JST: 50% rain chance 6 AM–noon, 10% noon–6 PM and 10% evening. These are Tokyo shore conditions, not conditions aboard the moving ship.",
+      "Today's Caymus Food & Wine is indoors aboard the ship, so coastal rain is not an event conflict.",
+      "Tomorrow in Tokyo: 25°C / 15°C (77°F / 59°F), sunny intervals; rain chance 20% before 6 AM and about 10% in each daytime/evening period. No meaningful rain overlap anticipated for Skytree, disembarkation or the airport transfer."
+    ],
+    "sources": [
+      {
+        "label": "Yahoo Japan Weather · Tokyo forecast, October 30 6 AM",
+        "url": "https://weather.yahoo.co.jp/weather/jp/13/4410.html"
+      },
+      {
+        "label": "Japan Meteorological Agency · Forecasts",
+        "url": "https://www.jma.go.jp/bosai/forecast/"
+      }
+    ]
+  },
+  "plans": {
+    "items": [
+      "All day Friday — At sea aboard Seven Seas Explorer, returning toward Tokyo.",
+      "12:00–2:00 PM Friday — Caymus Food & Wine, Compass Rose, onboard.",
+      "8:00 AM Saturday — Scheduled Tokyo arrival and disembarkation (ship schedule, subject to onboard confirmation).",
+      "9:00 AM–12:30 PM Saturday — Tentative Tokyo Skytree / Sumida Aquarium visit, Oshiage, Sumida City, Tokyo; not confirmed.",
+      "4:25 PM Saturday — International departure from Haneda Airport for Seattle."
+    ],
+    "note": "Outlook secondary calendar 'Kyle' checked for October 30–31. No overlap today. Tomorrow's 9 AM–12:30 PM sightseeing block is tentative and may leave too little airport margin after disembarkation and baggage handling. Target Haneda around 1:25 PM (three hours before departure), meaning leave Skytree around noon or earlier depending on luggage and transit."
+  },
+  "next": {
+    "summary": "Saturday, October 31 · Tokyo arrival and flight home",
+    "details": [
+      "Scheduled arrival 8:00 AM at Tokyo International Cruise Terminal, Odaiba; confirm final berth and disembarkation timing with ship staff.",
+      "Tokyo forecast: 25°C / 15°C (77°F / 59°F), mainly sunny, around 10% daytime rain chance.",
+      "Tentative Skytree / aquarium 9 AM–12:30 PM; both venues open at 9 AM on Saturday, October 31, but this is only feasible with prompt disembarkation and a firm luggage/airport-transfer plan.",
+      "Haneda international departure 4:25 PM; target terminal by approximately 1:25 PM. No confirmed cruise schedule adjustment found."
+    ],
+    "sources": [
+      {
+        "label": "Tokyo Skytree · October 31 hours",
+        "url": "https://www.tokyo-skytree.jp/open-hours/20261031/"
+      },
+      {
+        "label": "Sumida Aquarium · official hours",
+        "url": "https://sumida-aquarium.com/about/access/"
+      },
+      {
+        "label": "Tokyo forecast · Oct 30 6 AM",
+        "url": "https://weather.yahoo.co.jp/weather/jp/13/4410.html"
+      }
+    ]
+  },
+  "typhoon": {
+    "status": "No significant typhoon threat to upcoming ports",
+    "summary": "In-fa (Typhoon 31) remains very strong over the Mariana Islands, far southeast of mainland Japan. Champi has already become an extratropical low. No Regent-confirmed routing or Tokyo port changes were verified.",
+    "details": [
+      "Latest independently verified JMA advisory: October 30, 3:45 AM JST, describing the 3 AM position at 17.2°N, 149.5°E (Mariana Islands); west-northwest at 35 km/h.",
+      "Central pressure 940 hPa; sustained winds 45 m/s (162 km/h); maximum gusts 65 m/s (234 km/h).",
+      "Since the October 29 morning report, pressure fell about 5 hPa (945 to 940), while sustained wind stayed about 45 m/s. The storm moved west-northwest from roughly 15.8°N, 155.5°E.",
+      "Forecast track west-northwest near the Mariana Islands on October 30–31, then toward the Ogasawara area around November 1. Longer-range turn and exact track remain uncertain.",
+      "Today's Pacific sailing: low direct wind-field risk, but check the ship's marine updates for local swell. Tomorrow's Tokyo arrival, transfer and flight: low direct storm risk; no confirmed cruise changes. More substantial high-seas risk is confined closer to the storm and Ogasawara region."
+    ],
+    "sources": [
+      {
+        "label": "Mie Prefecture emergency weather · JMA typhoon bulletin October 30 3:45 AM",
+        "url": "https://www.bosaimie.jp/X_MIE_PUB_VF_kk313"
+      },
+      {
+        "label": "JMA official tropical cyclone information",
+        "url": "https://www.data.jma.go.jp/multi/cyclone/index.html?lang=en"
+      },
+      {
+        "label": "Weathernews · October 29 storm-track discussion",
+        "url": "https://weathernews.jp/news/202610/290091/"
+      }
+    ]
+  },
+  "headsUp": [
+    "No major new Tokyo-area weather warning shown in the October 30 6 AM Tokyo forecast.",
+    "Most important logistics risk: disembarkation, luggage and a 9 AM–12:30 PM tentative Skytree visit before a 4:25 PM international flight. Plan airport arrival around 1:25 PM and shorten sightseeing if necessary.",
+    "Ship announcements and airline notifications take precedence over published schedules; no Regent-confirmed change verified."
+  ],
+  "worthALook": [
+    "Recurring, Saturday October 31: Tokyo Skytree observation deck, Oshiage, Sumida City; official hours 9 AM–10 PM, feasible from 9 AM if disembarkation permits.",
+    "Recurring, Saturday October 31: Sumida Aquarium, Skytree Town Solamachi floors 5–6; weekend hours 9 AM–9 PM; choose this or the tower rather than rushing both.",
+    "Dated, final day Saturday October 31: Chiikawa 'Starry Skytree and the Secret Island' at Tokyo Skytree (July 10–October 31); admission/queues and airport timing may limit feasibility.",
+    "Recurring: Tokyo Solamachi shops and food at Skytree Town, convenient for a brief stop, but leave for Haneda by about noon or earlier."
+  ],
+  "discoverSources": [
+    {
+      "label": "Tokyo Skytree · exact Oct 31 hours and Chiikawa event",
+      "url": "https://www.tokyo-skytree.jp/open-hours/20261031/"
+    },
+    {
+      "label": "Sumida Aquarium official information",
+      "url": "https://sumida-aquarium.com/about/access/"
+    },
+    {
+      "label": "GO TOKYO · Sumida Aquarium",
+      "url": "https://www.gotokyo.org/jp/spot/67/index.html"
+    }
+  ]
+}
