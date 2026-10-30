@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-31",
+  "dateLabel": "Saturday, October 31, 2026",
+  "location": "Tokyo, Japan",
+  "published": "October 31, 2026 · 6:57 AM JST",
+  "headline": "Tokyo disembarkation and flight home",
+  "summary": "Tokyo should be sunny and dry for disembarkation. The main risk is time: a tentative Skytree/Aquarium visit must fit between the ship's 8 AM arrival and a 4:25 PM international flight. Typhoon In-fa remains far south, with rough seas near Ogasawara but no verified impact on Tokyo.",
+  "weather": {
+    "summary": "25°C / 13°C (77°F / 55°F) · Sunny intervals; mostly dry",
+    "details": [
+      "JMA Tokyo forecast issued October 30 at 5 PM JST: sunny with occasional clouds; 0% chance of rain from 6 AM–noon and 10% from noon–6 PM.",
+      "No expected rain window during disembarkation, Skytree sightseeing or the Haneda transfer. This is a six-hour-area forecast, not a precise hourly guarantee."
+    ],
+    "sources": [
+      {
+        "label": "JMA Tokyo forecast, October 30 (reported by FNN)",
+        "url": "https://www.fnn.jp/articles/-/1143116"
+      },
+      {
+        "label": "JMA forecast map",
+        "url": "https://www.jma.go.jp/bosai/forecast/"
+      }
+    ]
+  },
+  "plans": {
+    "items": [
+      "8:00 AM — Scheduled Seven Seas Explorer arrival at Tokyo International Cruise Terminal, Odaiba; disembarkation time to be confirmed onboard.",
+      "9:00 AM–12:30 PM — Tentative Tokyo Skytree / Sumida Aquarium sightseeing, 1-1-2 Oshiage, Sumida City. Calendar description says 'if confirmed'; not a booked commitment.",
+      "4:25 PM JST — Delta flight from Haneda Airport to Seattle (scheduled arrival 9:25 AM PDT, October 31)."
+    ],
+    "note": "The sightseeing window is tight once disembarkation, luggage, cross-city travel and airport transfer are considered. Delta recommends reaching the airport three hours before international departure: target 1:25 PM. Prefer only one attraction or skip sightseeing if luggage or disembarkation runs late. No rain conflict is anticipated."
+  },
+  "next": {
+    "summary": "Sunday, November 1 · Trip complete; no further cruise port",
+    "details": [
+      "No November 1 events found on the secondary Outlook calendar 'Kyle'.",
+      "The October 31 Haneda–Seattle flight is scheduled to arrive in Seattle on October 31 local time; no further Japan port or excursion.",
+      "No next-port rain window applies."
+    ],
+    "sources": [
+      {
+        "label": "Delta international check-in recommendations",
+        "url": "https://www.delta.com/us/en/check-in-security/check-in-time-requirements/international-check-in"
+      }
+    ]
+  },
+  "typhoon": {
+    "status": "No significant typhoon threat to upcoming ports",
+    "summary": "In-fa remains a very strong typhoon over the Ogasawara waters, far south of mainland Tokyo. The ship's Tokyo approach and Haneda departure have low direct typhoon exposure; distant ocean swell is possible but no Regent-confirmed change was found.",
+    "details": [
+      "Latest directly verified JMA advisory: October 31, 3:50 AM JST (3:00 AM observation): 20.5°N, 143.4°E; 940 hPa; maximum sustained winds 45 m/s (162 km/h), gusts 65 m/s (234 km/h); northwest at 25 km/h.",
+      "Weathernews' 6:00 AM JST JMA-based update places In-fa near 20°50′N, 143°00′E, still 940 hPa and moving west-northwest at 20 km/h.",
+      "Change since October 30 morning: shifted northwest from around 17.5°N, 148.6°E, while central pressure and sustained winds remain approximately unchanged at 940 hPa and 45 m/s.",
+      "Forecast: slow and turn near waters south of the Ogasawara Islands through November 1–3, with hazardous surf there. Longer-range movement uncertain; confidence lower after November 1.",
+      "Champi became extratropical October 25 and is no longer a typhoon. No remaining cruise ports after Tokyo; no verified Regent routing or port changes. Follow ship announcements."
+    ],
+    "sources": [
+      {
+        "label": "JMA typhoon tracking",
+        "url": "https://www.data.jma.go.jp/multi/cyclone/index.html?lang=en"
+      },
+      {
+        "label": "JMA advisory reproduced by Applied Meteorological Engineering",
+        "url": "https://amecs.co.jp/wx/typhoon/index.html"
+      },
+      {
+        "label": "Weathernews Typhoon In-fa live track",
+        "url": "https://weathernews.jp/onebox/typhoon/31/"
+      }
+    ]
+  },
+  "headsUp": [
+    "Tokyo International Cruise Terminal's October 30 notice schedules Seven Seas Explorer arrival at approximately 8:00 AM October 31; times may change. Levels 2 and 3 are restricted to ship users.",
+    "Delta recommends arrival at Haneda at least three hours before international departure: about 1:25 PM for a 4:25 PM flight.",
+    "No other major verified disruption affecting Tokyo sightseeing or the flight was identified."
+  ],
+  "worthALook": [
+    "Recurring — Tokyo Skytree, 1-1-2 Oshiage, Sumida: Saturday opening around 9 AM; observation decks and city views. Choose this OR the aquarium to preserve airport buffer.",
+    "Recurring — Sumida Aquarium, Skytree Town Solamachi floors 5–6, Oshiage: Saturday hours 9 AM–9 PM; indoor family-friendly alternative.",
+    "Dated, final day October 31 — Chiikawa: Starry SKYTREE and the Secret Island, Tokyo Skytree Tembo Deck and Tembo Galleria. Observation deck admission required; cafe access has advance-ticket restrictions."
+  ],
+  "discoverSources": [
+    {
+      "label": "Tokyo International Cruise Terminal October 31 ship notice",
+      "url": "https://www.tptc.co.jp/terminal/guide/news/detail/1547"
+    },
+    {
+      "label": "Tokyo Skytree official website",
+      "url": "https://www.tokyo-skytree.jp/"
+    },
+    {
+      "label": "Sumida Aquarium hours and access",
+      "url": "https://www.sumida-aquarium.com/about/access/"
+    },
+    {
+      "label": "Chiikawa × Tokyo Skytree official event",
+      "url": "https://www.tokyo-skytree.jp/en/event/special/chiikawa/"
+    },
+    {
+      "label": "Delta international check-in timing",
+      "url": "https://www.delta.com/us/en/check-in-security/check-in-time-requirements/international-check-in"
+    }
+  ]
+}
